@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrimPark</string>
+    <string name="park_entry">Entry</string>
+    <string name="park_exit">Exit</string>
+    <string name="collection">Collection</string>
+    <string name="Park_lot">Park Lot</string>
+</resources>
